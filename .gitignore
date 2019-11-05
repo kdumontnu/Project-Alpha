@@ -35,3 +35,11 @@ History/
 *.PcbDoc.htm
 .allspice/
 .as-meta/
+Project Outputs*/
+Project Logs*/
+Assembly Exports/
+__Previews/
+History/
+*.PcbDoc.htm
+.allspice/
+.as-meta/
